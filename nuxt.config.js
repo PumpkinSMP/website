@@ -25,6 +25,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
+    '@nuxtjs/style-resources'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -52,4 +53,12 @@ export default {
   build: {
     transpile: [/^element-ui/],
   },
+  
+  styleResources: {
+    scss: [
+      '@/assets/scss/app.scss',
+      '@/assets/scss/mixins.scss'
+    ],
+    hoistUseStatements:  true,
+  }
 }
