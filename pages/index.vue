@@ -6,7 +6,7 @@
           <h1>Welcome to PumpkinSMP!</h1>
           <p>Welcome to PumpkinSMP! PumpkinSMP is a crossplay Minecraft SMP.</p>
           <img src="@/assets/images/logo.png" />
-        <el-descriptions title="User Info">
+        <el-descriptions title="User Info" border>
           <el-descriptions-item label="Hostname">play.pumpkinsmp.fun</el-descriptions-item>
           <el-descriptions-item label="Port (Bedrock Edition)">19132</el-descriptions-item>
           <el-descriptions-item label="Hosting Location">
