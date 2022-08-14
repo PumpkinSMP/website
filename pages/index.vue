@@ -4,7 +4,7 @@
       <div>
         <div id="welcome">
           <h1>Welcome to PumpkinSMP!</h1>
-          <p>Welcome to PumpkinSMP! PumpkinSMP is a Minecraft server</p>
+          <p>Welcome to PumpkinSMP! PumpkinSMP is a crossplay Minecraft SMP.</p>
           <img src="@/assets/images/logo.png" />
         </div>
       </div>
