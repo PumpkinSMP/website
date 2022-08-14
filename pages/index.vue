@@ -7,8 +7,8 @@
           <p>Welcome to PumpkinSMP! PumpkinSMP is a crossplay Minecraft SMP.</p>
           <img src="@/assets/images/logo.png" />
         <el-descriptions title="Connection Information">
-          <el-descrptions-item label="Hostname">play.pumpkinsmp.fun</el-descrption-item>
-          <el-descrptions-item label="Port (Bedrock Edition)">19132</el-descrption-item>
+          <el-descrptions-item label="Hostname">play.pumpkinsmp.fun</el-descrptions-item>
+          <el-descrptions-item label="Port (Bedrock Edition)">19132</el-descrptions-item>
         </el-descriptions>
         <b>NOTE: You do not need to add a port for Java Edition, it will figure it out automatically.</b>
         </div>
