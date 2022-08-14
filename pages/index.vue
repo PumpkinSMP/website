@@ -7,13 +7,12 @@
           <p>Welcome to PumpkinSMP! PumpkinSMP is a crossplay Minecraft SMP.</p>
           <img src="@/assets/images/logo.png" />
         <el-descriptions title="User Info">
-          <el-descriptions-item label="Username">kooriookami</el-descriptions-item>
-          <el-descriptions-item label="Telephone">18100000000</el-descriptions-item>
-          <el-descriptions-item label="Place">Suzhou</el-descriptions-item>
-          <el-descriptions-item label="Remarks">
-            <el-tag size="small">School</el-tag>
+          <el-descriptions-item label="Hostname">play.pumpkinsmp.fun</el-descriptions-item>
+          <el-descriptions-item label="Port (Bedrock Edition)">19132</el-descriptions-item>
+          <el-descriptions-item label="Hosting Location">
+            <el-tag size="small">India</el-tag>
           </el-descriptions-item>
-          <el-descriptions-item label="Address">No.1188, Wuzhong Avenue, Wuzhong District, Suzhou, Jiangsu Province</el-descriptions-item>
+          <el-descriptions-item label="Version">1.17-1.19</el-descriptions-item>
         </el-descriptions>
 
         <b>NOTE: You do not need to add a port for Java Edition, it will figure it out automatically.</b>
