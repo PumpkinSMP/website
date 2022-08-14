@@ -5,7 +5,7 @@
         <div id="welcome">
           <h1>Welcome to PumpkinSMP!</h1>
           <p>Welcome to PumpkinSMP! PumpkinSMP is a Minecraft server</p>
-          <el-image src="@/assets/images/logo.png" :fit="fit"></el-image>
+          <el-image src="@/assets/images/logo.png"></el-image>
         </div>
       </div>
     </el-main>
